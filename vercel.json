@@ -1,8 +1,14 @@
 {
-    "rewrites": [
-      {
-        "source": "/(.*)",
-        "destination": "https://8119-190-217-57-68.ngrok-free.app/"
-      }
-    ]
-  }
+  "redirects": [
+    {
+      "source": "/login",
+      "destination": "https://8119-190-217-57-68.ngrok-free.app/login",
+      "permanent": true
+    },
+    {
+      "source": "/register",
+      "destination": "https://8119-190-217-57-68.ngrok-free.app/register",
+      "permanent": true
+    }
+  ]
+}
