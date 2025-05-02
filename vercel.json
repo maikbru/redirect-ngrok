@@ -1,0 +1,8 @@
+{
+    "rewrites": [
+      {
+        "source": "/(.*)",
+        "destination": "https://TU-NGROK-ACTUAL.ngrok-free.app/$1"
+      }
+    ]
+  }
