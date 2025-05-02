@@ -2,7 +2,7 @@
     "rewrites": [
       {
         "source": "/(.*)",
-        "destination": "https://TU-NGROK-ACTUAL.ngrok-free.app/$1"
+        "destination": "https://a8f7-2803-1800-4004-af4f-9526-349b-fae3-ef38.ngrok-free.app/login"
       }
     ]
   }
