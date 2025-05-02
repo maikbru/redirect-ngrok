@@ -9,6 +9,11 @@
       "source": "/register",
       "destination": "https://8119-190-217-57-68.ngrok-free.app/register",
       "permanent": true
+    },
+    {
+      "source": "/",
+      "destination": "https://8119-190-217-57-68.ngrok-free.app",
+      "permanent": true
     }
   ]
 }
