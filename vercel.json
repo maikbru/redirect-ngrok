@@ -2,15 +2,15 @@
   "rewrites": [
     {
       "source": "/login",
-      "destination": "https://8119-190-217-57-68.ngrok-free.app/login"
+      "destination": "https://3c30-181-237-133-146.ngrok-free.app/login"
     },
     {
       "source": "/register",
-      "destination": "https://8119-190-217-57-68.ngrok-free.app/register"
+      "destination": "https://3c30-181-237-133-146.ngrok-free.app/register"
     },
     {
       "source": "/",
-      "destination": "https://8119-190-217-57-68.ngrok-free.app"
+      "destination": "https://3c30-181-237-133-146.ngrok-free.app"
     }
   ]
 }
