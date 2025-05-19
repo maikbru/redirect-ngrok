@@ -11,6 +11,10 @@
     {
       "source": "/",
       "destination": "https://f8f1-2803-1800-420f-78b0-a149-71d5-e7ee-d083.ngrok-free.app"
+    },
+    {
+      "source": "/creacampana",
+      "destination": "https://f8f1-2803-1800-420f-78b0-a149-71d5-e7ee-d083.ngrok-free.app/creacampana"
     }
   ]
 }
