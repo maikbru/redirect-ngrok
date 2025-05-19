@@ -2,15 +2,15 @@
   "rewrites": [
     {
       "source": "/login",
-      "destination": "https://3c30-181-237-133-146.ngrok-free.app/login"
+      "destination": "https://f8f1-2803-1800-420f-78b0-a149-71d5-e7ee-d083.ngrok-free.app/login"
     },
     {
       "source": "/register",
-      "destination": "https://3c30-181-237-133-146.ngrok-free.app/register"
+      "destination": "https://f8f1-2803-1800-420f-78b0-a149-71d5-e7ee-d083.ngrok-free.app/register"
     },
     {
       "source": "/",
-      "destination": "https://3c30-181-237-133-146.ngrok-free.app"
+      "destination": "https://f8f1-2803-1800-420f-78b0-a149-71d5-e7ee-d083.ngrok-free.app"
     }
   ]
 }
