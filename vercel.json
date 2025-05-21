@@ -2,31 +2,31 @@
   "rewrites": [
     {
       "source": "/login",
-      "destination": "https://0458-186-121-42-183.ngrok-free.app/login"
+      "destination": "https://8c9d-186-121-42-183.ngrok-free.app/login"
     },
     {
       "source": "/register",
-      "destination": "https://0458-186-121-42-183.ngrok-free.app/register"
+      "destination": "https://8c9d-186-121-42-183.ngrok-free.app/register"
     },
     {
       "source": "/",
-      "destination": "https://0458-186-121-42-183.ngrok-free.app/"
+      "destination": "https://8c9d-186-121-42-183.ngrok-free.app/"
     },
     {
       "source": "/creacampana",
-      "destination": "https://0458-186-121-42-183.ngrok-free.app/creacampana"
+      "destination": "https://8c9d-186-121-42-183.ngrok-free.app/creacampana"
     },
     {
       "source": "/posts",
-      "destination": "https://0458-186-121-42-183.ngrok-free.app/posts"
+      "destination": "https://8c9d-186-121-42-183.ngrok-free.app/posts"
     },
     {
       "source": "/usercampana",
-      "destination": "https://0458-186-121-42-183.ngrok-free.app/usercampana"
+      "destination": "https://8c9d-186-121-42-183.ngrok-free.app/usercampana"
     },
     {
       "source": "/getuserid",
-      "destination": "https://0458-186-121-42-183.ngrok-free.app/getuserid"
+      "destination": "https://8c9d-186-121-42-183.ngrok-free.app/getuserid"
     }
   ]
 }
